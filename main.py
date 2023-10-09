@@ -6,10 +6,10 @@ Essa aula possui 3 objetivos:
 4.) Se der, variaveis
 """
 
-print("Essa aula possui 3 objetivos:")
-print("1.) Ensinar como se comenta em python e por quê.")
-print("2.) Utilizar o comando print.")
-print("3.) Utilizar o comando input.")
+print("Essa aula possui 3 objetivos:\n")
+print("1.) Ensinar como se comenta em python e por quê.\n")
+print("2.) Utilizar o comando print.\n")
+print("3.) Utilizar o comando input.\n")
 print("4.) Se der, variaveis")
 
 """
