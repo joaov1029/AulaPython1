@@ -21,6 +21,7 @@ idade = int(input("Qual sua idade?\n"))
 print(f"\nMeu nome é {nome}, e minha idade é {idade} anos")
 """
 
+
 #Adega
 idade = int(input("Qual sua idade?\n"))
 if idade < 18:
@@ -28,7 +29,8 @@ if idade < 18:
 elif idade < 21:
     print("\nPode consumir cerveja")
 else:
-    print("\nPode consumir todas bebidas alcoólicas")
+    print("\nPode consumir todas as bebidas alcoólicas")
+
 
 """
 #Calculadora

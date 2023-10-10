@@ -4,4 +4,8 @@
 - Utilizar o comando input.
 - Variaveis(string, int, float)
 - Decisões(if, else, elif)
-## Calculadora
+
+# Projetos
+- Controle de adega
+- Rock 'n rio
+- Calculadora
