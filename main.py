@@ -6,18 +6,31 @@ Essa aula possui 3 objetivos:
 4.) Se der, variaveis
 """
 """
+#print
 print("Essa aula possui 3 objetivos:\n")
 print("1.) Ensinar como se comenta em python e por quê.\n")
 print("2.) Utilizar o comando print.\n")
 print("3.) Utilizar o comando input.\n")
 print("4.) Se der, variaveis")
 """
-
+"""
+#Concatenação
 nome = input("Qual seu nome?\n")
 idade = int(input("Qual sua idade?\n"))
 print(f"\nMeu nome é {nome}, e minha idade é {idade} anos")
+"""
+
+#Adega
+idade = int(input("Qual sua idade?\n"))
+if idade < 18:
+    print("\nNão pode consumir bebidas alcoólicas")
+elif idade < 21:
+    print("\nPode consumir cerveja")
+else:
+    print("\nPode consumir todas bebidas alcoólicas")
 
 """
+#Calculadora
 val1 = float(input("Digite o primeiro valor"))
 op = input("Digite a operação")
 val2 = 1.0
