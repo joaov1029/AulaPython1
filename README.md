@@ -7,5 +7,6 @@
 
 # Projetos
 - Controle de adega
+- Barraca de frutas
 - Rock 'n rio
 - Calculadora
