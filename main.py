@@ -1,3 +1,4 @@
+import math
 """
 Essa aula possui 3 objetivos:
 1.) Ensinar como se comenta em python e por quê.
@@ -67,7 +68,7 @@ elif op == "raiz":
     if val1 < 0:
         print("Impossível realizar a raíz de números negativos")
     else:
-        resultado = val1 ** 0.5
+        resultado = math.sqrt(val1)
         print("O resultado é: ", resultado)
 else:
     print("Digite uma operação válida")
