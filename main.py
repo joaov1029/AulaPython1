@@ -15,7 +15,7 @@ print("4.) Se der, variaveis")
 
 nome = input("Qual seu nome?\n")
 idade = int(input("Qual sua idade?\n"))
-print("\nMeu nome é", nome+", e minha idade é", idade,"anos")
+print(f"\nMeu nome é {nome}, e minha idade é {idade} anos")
 
 """
 val1 = float(input("Digite o primeiro valor"))
